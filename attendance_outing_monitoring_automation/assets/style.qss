@@ -1,0 +1,74 @@
+/* Main Window */
+
+QMainWindow {
+    background-color: #0f1117;
+}
+
+/* Title */
+
+QLabel#titleLabel {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
+
+/* Tabs */
+
+QTabWidget::pane {
+    border: none;
+    background-color: #161b22;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+QTabBar::tab {
+    background: #1f2633;
+    color: white;
+    padding: 10px 30px;
+    margin: 3px;
+    border-radius: 6px;
+}
+
+QTabBar::tab:selected {
+    background: #2c313c;
+}
+
+/* Buttons */
+
+QPushButton {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 14px;
+    border-radius: 10px;
+}
+
+/* IN button */
+
+QPushButton#inButton {
+    background-color: #1e7d32;
+    color: white;
+}
+
+QPushButton#inButton:hover {
+    background-color: #2e9e42;
+}
+
+/* OUT button */
+
+QPushButton#outButton {
+    background-color: #b71c1c;
+    color: white;
+}
+
+QPushButton#outButton:hover {
+    background-color: #d32f2f;
+}
+
+/* Last Scan */
+
+QLabel#lastScanLabel {
+    font-size: 15px;
+    color: #a8dadc;
+    padding: 10px;
+}
