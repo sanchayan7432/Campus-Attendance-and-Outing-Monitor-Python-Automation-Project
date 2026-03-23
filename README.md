@@ -1,4 +1,4 @@
-# Attendance Outing Monitor 🕒
+# 🕒 Attendance Outing Monitoring Automation 🕒
 
 ## 📌 Overview
 **Attendance Outing Monitor** is a Python automation project designed to simplify attendance and outing tracking.  
