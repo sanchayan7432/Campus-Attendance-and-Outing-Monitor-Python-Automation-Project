@@ -26,9 +26,9 @@ This tool is ideal for offices, institutions, or events where efficient monitori
 ## 🚀 Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/sanchayan7432/Campus-Attendance-and-Outing-Monitor-Python-Automation-Project.git
-   ```
+```
+git clone https://github.com/sanchayan7432/Campus-Attendance-and-Outing-Monitor-Python-Automation-Project.git
+```
 
 2. Navigate to the project folder:
  ```
