@@ -32,7 +32,7 @@ This tool is ideal for offices, institutions, or events where efficient monitori
 
 2. Navigate to the project folder:
  ```
-cd attendance-outing-monitor
+cd attendance-outing-monitoring_automation
 ```
 
 3. Install dependencies:
