@@ -84,7 +84,11 @@ python app.py
 ```
 ---
 
-## 📜 LicenseThis project is licensed under the 'GNU GENERAL PUBLIC LICENSE' – feel free to use and modify it.
+## 📜 License
 
-## 👨‍💻 AuthorDeveloped by Sanchayan
-
+This project is licensed under the 'GNU GENERAL PUBLIC LICENSE' – feel free to use and modify it.
+---
+
+## 👨‍💻 Author
+Developed by Sanchayan Ghosh. Email me at < sanchayan.ghosh2022@uem.edu.in >
+
